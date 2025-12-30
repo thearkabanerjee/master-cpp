@@ -1,0 +1,34 @@
+there are 3 types of data types:
+
+1. primitive
+2. derived
+3. user-defined
+
+
+
+1. primitive:
+
+when it comes to primitive there are a few data types
+* int
+* float
+* double
+* char (to store one character of string)
+* boolean
+* void (returns nothing. is not similar to the any datatype of typescript)
+
+
+2. derived:
+
+* array
+* function
+* pointer (need to be studied well)
+* reference
+
+
+3. user defined :
+
+* structure
+* union
+* enum
+* class
+* typedef
